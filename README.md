@@ -13,7 +13,7 @@ This project provides a UBUS-based control interface for ESP devices, allowing s
 
 - **RUTX Router** (such as RUTX10 or RUTX11) with UBUS enabled.
 - **ESP Microcontroller** connected to the RUTX router's or PC's serial port.
-- **Packages**: `libjson-c`, `libtuya`, `libubus`, `libubox`, `libblobmsg-json`, `libserialport`, `argp-standalone`
+- **Packages**: `libjson-c`, `libubus`, `libubox`, `libblobmsg-json`, `libserialport`, `argp-standalone`
 - **Pre-loaded code**: ESP device must have code saved to handle the commands on, off, and get.
   
 ### Installation
